@@ -80,7 +80,7 @@ export default function ProtocolPage() {
             </motion.button>
           ) : (
             <div className="rounded-2xl border border-dashed border-violet-300 p-4 font-mono text-sm text-violet-700 dark:text-violet-200">
-              // el “No” ya no es una opción para ti 🐱💜
+             El “No” ya no es una opción para ti 🐱💜
             </div>
           )}
         </div>
